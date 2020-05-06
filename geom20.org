@@ -1,0 +1,29 @@
+#+TITLE: 幾何学特論I
+#+LANGUAGE: ja
+#+HTML_DOCTYPE: html5
+#+OPTIONS: toc:nil num:nil author:nil creator:nil LaTeX:t \n:nil
+
+2020年度幾何学特論Iの講義資料です. 講義の進行にあわせて作成する予定です. 
+当面, 大学のサイトよりこちらの方の更新が先になると思います. 
+
+内容は全部同じです.
+
+* 片面でも両面でも
+- [[https://github.com/s1tsu/geom20/raw/master/note/geom20.pdf][A4 pdf]]
+- [[https://github.com/s1tsu/geom20/raw/master/note/geom20-2up.pdf][A4 2up pdf]]
+  片面に2ページ
+- [[https://github.com/s1tsu/geom20/raw/master/note/geom20-4up.pdf][A4 4up pdf]]
+  片面に4ページ
+- [[https://github.com/s1tsu/geom20/raw/master/note/geom20-8up.pdf][A4 8up pdf]]
+  片面に8ページ
+
+* 片面印刷用
+- [[https://github.com/s1tsu/geom20/raw/master/note/pocketgeom20.pdf][Pocketmod pdf]]
+  片面に8ページ. 折り方は [[https://pocketmod.com/howto][Pocketmod How To]] など.
+
+
+* 両面印刷用
+- [[https://github.com/s1tsu/geom20/raw/master/note/4p-geom20.pdf][面付け中綴じ用 pdf]]
+   1枚に片面4ページずつ, 両面で8ページ. 四つ折りにして, 折り目を綴じて天をカット.
+- [[https://github.com/s1tsu/geom20/raw/master/note/u4p-geom20.pdf][面付け外綴じ用 pdf]]
+  1枚に片面4ページずつ, 両面で8ページ. 四つ折りにして, 開いている方を綴じて二辺をカット.
