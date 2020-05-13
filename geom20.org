@@ -9,21 +9,21 @@
 内容は全部同じです.
 
 * 片面でも両面でも
-- [[./geom20.pdf][A4 pdf]]
-- [[./geom20-2up.pdf][A4 2up pdf]]
+- [[./geom20/geom20.pdf][A4 pdf]]
+- [[./geom20/geom20-2up.pdf][A4 2up pdf]]
   片面に2ページ
-- [[./geom20-4up.pdf][A4 4up pdf]]
+- [[./geom20/geom20-4up.pdf][A4 4up pdf]]
   片面に4ページ
-- [[./geom20-8up.pdf][A4 8up pdf]]
+- [[./geom20/geom20-8up.pdf][A4 8up pdf]]
   片面に8ページ
 
 * 片面印刷用
-- [[./pocketgeom20.pdf][Pocketmod pdf]]
+- [[./geom20/pocketgeom20.pdf][Pocketmod pdf]]
   片面に8ページ. 折り方は [[https://pocketmod.com/howto][Pocketmod How To]] など.
 
 
 * 両面印刷用
-- [[./4p-geom20.pdf][面付け中綴じ用 pdf]]
+- [[./geom20/4p-geom20.pdf][面付け中綴じ用 pdf]]
    1枚に片面4ページずつ, 両面で8ページ. 四つ折りにして, 折り目を綴じて天をカット.
-- [[./u4p-geom20.pdf][面付け外綴じ用 pdf]]
+- [[./geom20/u4p-geom20.pdf][面付け外綴じ用 pdf]]
   1枚に片面4ページずつ, 両面で8ページ. 四つ折りにして, 開いている方を綴じて二辺をカット.
